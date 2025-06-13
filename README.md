@@ -50,7 +50,8 @@ This project is open to improvements. Feel free to fork it or suggest changes th
 For questions or collaboration:
 **Isaac Nzayisenga**  
 📫 Email: nzayisaac85@gmail.com  
-[![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png)](https://wa.me/250781732472)
 🌍 Location: Rwanda
+Click on the following icon to WhatsApp me [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png)](https://wa.me/250781732472)
+
 
 ---
